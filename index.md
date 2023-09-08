@@ -4,20 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am pursuing my Ph.D. in Informatics at [The Pennsylvania State University](https://ist.psu.edu/). I work with Professor [Hadi Hosseini](\https://faculty.ist.psu.edu/hadi/) in the [Foundations of Artificial Intelligence Lab (FAIR)](\https://sites.google.com/view/fairailab) on Algorithms to solve various problems in Computational Social Choice, Multi-agent interactions, and Game Theory.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug 2023]** Started my Ph.D. at Penn State.
+- **[Jun. 2023]** My Bachelors thesis got accepted to [MAISoN 2023](\https://2023.maisonworkshop.org/accepted-papers) (hosted at [IJCAI 2023](\https://ijcai-23.org/))!
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
