@@ -7,7 +7,7 @@ main:
     pdf: https://drive.google.com/file/d/1X6qsobAznVGJUottsbojo698yx2pAvH8/view
     code: https://github.com/SamarthKhanna/social-network-link-prediction
     bibtex: 
-    image: assets/img/imageNN.PNG
+    image: ./assets/img/imageNN.PNG
     notes:
 
  - title: "A Comparative Study of Various Text Classification Methods"
@@ -15,7 +15,6 @@ main:
     conference_short: CIPR 2020
     conference: 2nd International Conference on Computational Intelligence in Pattern Recognition
     pdf: https://drive.google.com/file/d/1szgeqz2xWtDmb_6qavHfget4brJyYNRH/view?usp=drive_link
-    code: 
     bibtex: Khanna, S., Tiwari, B., Das, P., & Das, A. K. (2020). A Comparative Study on Various Text Classification Methods. In A. K. Das, J. Nayak, B. Naik, S. Dutta, & D. Pelusi (Eds.), Computational Intelligence in Pattern Recognition (pp. 539–549). Springer Singapore.
-    image: assets/img/cipr_paper.PNG
-    notes: 
+    image: ./assets/img/cipr_paper.PNG
+  
