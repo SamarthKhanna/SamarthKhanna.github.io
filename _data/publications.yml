@@ -1,21 +1,21 @@
 main:
 
+  - title: "Evaluating the Reasoning and Explainability Power of Large Language Models in Economic Tasks"
+    authors: Hadi Hosseini, Yubo Jing, <strong>Samarth Khanna</strong>, Ronak Singh
+    conference_short: Working paper
+
   - title: "Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions"
     authors: Hadi Hosseini, Joshua Kavner, <strong>Samarth Khanna</strong>, Sujoy Sikdar, Lirong Xia
     conference_short: Working paper
     conference: Under submission at ACM EC 2025
-    pdf: 
-    code: 
-    bibtex: 
     image: ./assets/img/MTurk-expA.png
-    notes:
 
   - title: "Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>
     conference_short: Working paper
     conference: Under submission at ICML 2025
     pdf: https://arxiv.org/abs/2502.00313
-    bibtex: Hosseini, H., & Khanna, S. (2025). Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values. arXiv preprint arXiv:2502.00313.
+    bibtex: Hosseini, H., & Khanna, S. (2025). Distributive Fairness in Large Language Models; Evaluating Alignment with Human Values. arXiv preprint arXiv:2502.00313.
     image: ./assets/img/Diagram.pdf
     notes:
 
