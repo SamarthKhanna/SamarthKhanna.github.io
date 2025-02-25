@@ -7,14 +7,14 @@ main:
     notes: (Alphabetical author ordering)
 
   - title: "Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions"
-    authors: (a-b) Hadi Hosseini, Joshua Kavner, <strong>Samarth Khanna</strong>, Sujoy Sikdar, Lirong Xia
+    authors: Hadi Hosseini, Joshua Kavner, <strong>Samarth Khanna</strong>, Sujoy Sikdar, Lirong Xia
     conference_short: Working paper
     conference: Under submission at ACM EC 2025
     image: ./assets/img/MTurk-expA.png
     notes: (Alphabetical author ordering)
 
   - title: "Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values"
-    authors: (a-b) Hadi Hosseini, <strong>Samarth Khanna</strong>
+    authors: Hadi Hosseini, <strong>Samarth Khanna</strong>
     conference_short: Working paper
     conference: Under submission at ICML 2025
     pdf: https://arxiv.org/abs/2502.00313
