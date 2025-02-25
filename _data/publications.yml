@@ -1,12 +1,31 @@
 main:
 
+  - title: "Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions"
+    authors: Hadi Hosseini, Joshua Kavner, <strong>Samarth Khanna</strong>, Sujoy Sikdar, Lirong Xia
+    conference_short: Working paper
+    conference: Under submission at ACM EC 2025
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/MTurk-expA.png
+    notes:
+
+  - title: "Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values"
+    authors: Hadi Hosseini, <strong>Samarth Khanna</strong>
+    conference_short: Working paper
+    conference: Under submission at ICML 2025
+    pdf: https://arxiv.org/abs/2502.00313
+    bibtex: Hosseini, H., & Khanna, S. (2025). Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values. arXiv preprint arXiv:2502.00313.
+    image: ./assets/img/Diagram.pdf
+    notes:
+
   - title: "Link Prediction for Social Networks using Representation Learning and Heuristic-based Features"
     authors: <strong>Samarth Khanna</strong>, Sree Bhattacharyya, Sudipto Ghosh, Kushagra Agarwal, Asit Kumar Das
     conference_short: MAISoN @ IJCAI 2023
     conference: 9th International Workshop on Mining Actionable Insights from Social Networks (2023)
     pdf: https://drive.google.com/file/d/1X6qsobAznVGJUottsbojo698yx2pAvH8/view
     code: https://github.com/SamarthKhanna/social-network-link-prediction
-    bibtex: 
+    bibtex: Khanna, S., Bhattacharyya, S., Ghosh, S., Agarwal, K., & Das, A. K. (2024). Link Prediction for Social Networks using Representation Learning and Heuristic-based Features. arXiv preprint arXiv:2403.08613.
     image: ./assets/img/imageNN.PNG
     notes:
 
