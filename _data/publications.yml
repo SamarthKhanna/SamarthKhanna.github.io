@@ -16,7 +16,7 @@ main:
     conference: Under submission at ICML 2025
     pdf: https://arxiv.org/abs/2502.00313
     bibtex: Hosseini, H., & Khanna, S. (2025). Distributive Fairness in Large Language Models; Evaluating Alignment with Human Values. arXiv preprint arXiv:2502.00313.
-    image: ./assets/img/Diagram.pdf
+    image: ./assets/img/Diagram.png
     notes:
 
   - title: "Link Prediction for Social Networks using Representation Learning and Heuristic-based Features"
