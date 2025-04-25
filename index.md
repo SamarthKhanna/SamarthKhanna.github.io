@@ -12,6 +12,7 @@ On a personal note, I'm into reading, theater, and debating. I've also played a 
 
 ## News
 
+- **[April 2025]** Won the Best Poster Award at PSU AI-Week 2025!
 - **[Aug 2023]** Started my Ph.D. at Penn State.
 - **[Jun. 2023]** My Bachelors thesis got accepted to [MAISoN 2023](https://2023.maisonworkshop.org/accepted-papers) (hosted at [IJCAI 2023](https://ijcai-23.org/))!
 
