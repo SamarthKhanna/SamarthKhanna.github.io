@@ -4,14 +4,14 @@ main:
     authors: John P. Dickerson, Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
     conference_short: Working paper
     pdf: https://arxiv.org/abs/2506.00079
-    image: ./assets/img/exp1_heatmap.pdf
+    image: ./assets/img/exp1_heatmap.png
     notes: (Alphabetical author ordering)
 
   - title: "Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Ronak Singh
     conference_short: Working paper
     pdf: https://arxiv.org/abs/2506.04478
-    image: ./assets/img/Achieving_Stability.pdf
+    image: ./assets/img/Achieving_Stability.png
     notes: (Alphabetical author ordering)
 
   - title: "Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions"
