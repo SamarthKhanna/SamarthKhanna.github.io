@@ -1,15 +1,24 @@
 main:
 
-
-  - title: "Evaluating the Reasoning and Explainability Power of Large Language Models in Economic Tasks"
-    authors: Hadi Hosseini, Yubo Jing, <strong>Samarth Khanna</strong>, Ronak Singh
+  - title: "Who Gets the Kidney? Human-AI Alignment, Indecision, and Moral Values"
+    authors: John P. Dickerson, Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
     conference_short: Working paper
+    pdf: https://arxiv.org/abs/2506.00079
+    image: ./assets/img/exp1_heatmap.pdf
+    notes: (Alphabetical author ordering)
+
+  - title: "Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences"
+    authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Ronak Singh
+    conference_short: Working paper
+    pdf: https://arxiv.org/abs/2506.04478
+    image: ./assets/img/Achieving_Stability.pdf
     notes: (Alphabetical author ordering)
 
   - title: "Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions"
     authors: Hadi Hosseini, Joshua Kavner, <strong>Samarth Khanna</strong>, Sujoy Sikdar, Lirong Xia
     conference_short: Working paper
     # conference: Under submission at ACM EC 2025
+    pdf: https://arxiv.org/abs/2505.10433 
     image: ./assets/img/MTurk-expA.png
     notes: (Alphabetical author ordering)
 
