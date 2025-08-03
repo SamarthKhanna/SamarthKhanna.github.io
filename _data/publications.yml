@@ -1,22 +1,29 @@
 main:
 
+  - title: "Fair Like Us? Auditing LLM Alignment in Resource Allocation"
+    authors: <strong>Samarth Khanna</strong>, Sujoy Sikdar, Joshua Kavner, Hadi Hosseini, Qishen Han, Lirong Xia
+    conference_short: Under review
+    # pdf: https://arxiv.org/abs/2505.10433 
+    image: ./assets/img/thresholds.png
+    notes: (Alphabetical author ordering)
+
   - title: "Who Gets the Kidney? Human-AI Alignment, Indecision, and Moral Values"
     authors: John P. Dickerson, Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
-    conference_short: Working paper
+    conference_short: Under review
     pdf: https://arxiv.org/abs/2506.00079
     image: ./assets/img/exp1_heatmap.png
     notes: (Alphabetical author ordering)
 
   - title: "Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Ronak Singh
-    conference_short: Working paper
+    conference_short: Under review
     pdf: https://arxiv.org/abs/2506.04478
     image: ./assets/img/Achieving_Stability.png
     notes: (Alphabetical author ordering)
 
   - title: "Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions"
     authors: Hadi Hosseini, Joshua Kavner, <strong>Samarth Khanna</strong>, Sujoy Sikdar, Lirong Xia
-    conference_short: Working paper
+    conference_short: Under review
     # conference: Under submission at ACM EC 2025
     pdf: https://arxiv.org/abs/2505.10433 
     image: ./assets/img/MTurk-expA.png
@@ -24,7 +31,7 @@ main:
 
   - title: "Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>
-    conference_short: Working paper
+    conference_short: Under review
     # conference: Under submission at ICML 2025
     pdf: https://arxiv.org/abs/2502.00313
     bibtex: Hosseini, H., & Khanna, S. (2025). Distributive Fairness in Large Language Models; Evaluating Alignment with Human Values. arXiv preprint arXiv:2502.00313.
