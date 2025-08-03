@@ -5,7 +5,7 @@ main:
     conference_short: Under review
     # pdf: https://arxiv.org/abs/2505.10433 
     image: ./assets/img/thresholds.png
-    notes: (Alphabetical author ordering)
+    # notes: (Alphabetical author ordering)
 
   - title: "Who Gets the Kidney? Human-AI Alignment, Indecision, and Moral Values"
     authors: John P. Dickerson, Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
