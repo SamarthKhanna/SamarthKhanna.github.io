@@ -17,6 +17,7 @@ main:
   - title: "Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Ronak Singh
     conference_short: NeurIPS 2025
+    conference: The Thirty-Ninth Annual Conference on Neural Information Processing Systems
     pdf: https://arxiv.org/abs/2506.04478
     image: ./assets/img/Achieving_Stability.png
     notes: (Alphabetical author ordering)
@@ -32,6 +33,7 @@ main:
   - title: "Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>
     conference_short: NeurIPS 2025
+    conference: The Thirty-Ninth Annual Conference on Neural Information Processing Systems
     # conference: Under submission at ICML 2025
     pdf: https://arxiv.org/abs/2502.00313
     bibtex: Hosseini, H., & Khanna, S. (2025). Distributive Fairness in Large Language Models; Evaluating Alignment with Human Values. arXiv preprint arXiv:2502.00313.
