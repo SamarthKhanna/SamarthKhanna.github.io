@@ -19,7 +19,7 @@ main:
     conference_short: NeurIPS 2025
     conference: The Thirty-Ninth Annual Conference on Neural Information Processing Systems
     pdf: https://arxiv.org/abs/2506.04478
-    image: ./assets/img/Achieving_Stability.png
+    image: ./assets/img/matching_teaser.png
     notes: (Alphabetical author ordering)
 
   - title: "Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions"

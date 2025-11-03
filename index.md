@@ -11,8 +11,10 @@ Before Penn State, I worked as a Software Developer (June 2022 to July 2023) wit
 On a personal note, I'm into reading, theater, and debating. I've also played a number of sports and I always enjoy playing anything new.
 
 ## News
-
+- **[Nov. 2025]** Got selected for AAAI Doctoral Consortium!
+- **[Sep. 2025]** Passed my thesis proposal defense!
 - **[Sep. 2025]** Two papers accepted at NeurIPS 2025!
+- **[May. 2025]** Presented my work on "Distributive Fairness in Large Language Models" at the SC4AI workshop at AAMAS 2025.
 - **[April 2025]** Won the Best Poster Award at PSU AI-Week 2025!
 - **[Aug 2023]** Started my Ph.D. at Penn State.
 - **[Jun. 2023]** My Bachelors thesis got accepted to [MAISoN 2023](https://2023.maisonworkshop.org/accepted-papers) (hosted at [IJCAI 2023](https://ijcai-23.org/))!
