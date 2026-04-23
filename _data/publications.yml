@@ -1,5 +1,12 @@
 main:
 
+  - title: "Strategic Algorithmic Monoculture: Experimental Evidence from Coordination Games"
+    authors: Gonzalo Ballestero, Hadi Hosseini, <strong>Samarth Khanna</strong>, Ran I. Shorrer
+    conference_short: Under review
+    pdf: https://arxiv.org/abs/2604.09502 
+    image: ./assets/img/monoculture.png
+    notes: (Alphabetical author ordering)
+
   - title: "Fair Like Us? Auditing LLM Alignment in Resource Allocation"
     authors: <strong>Samarth Khanna</strong>, Sujoy Sikdar, Joshua Kavner, Hadi Hosseini, Qishen Han, Lirong Xia
     conference_short: Under review
