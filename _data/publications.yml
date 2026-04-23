@@ -9,7 +9,8 @@ main:
 
   - title: "Who Gets the Kidney? Human-AI Alignment, Indecision, and Moral Values"
     authors: John P. Dickerson, Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
-    conference_short: Under review
+    conference_short: ACM FAccT 2026
+    conference: The Ninth Annual ACM Conference on Fairness, Accountability, and Transparency
     pdf: https://arxiv.org/abs/2506.00079
     image: ./assets/img/exp1_heatmap.png
     notes: (Alphabetical author ordering)
