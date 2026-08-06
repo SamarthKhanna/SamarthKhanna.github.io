@@ -1,6 +1,6 @@
 main:
 
-  title: "Preference Reasoning under Indeterminacy in Large Language Models"
+  - title: "Preference Reasoning under Indeterminacy in Large Language Models"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Xiyuan Wang
     conference_short: Under review
     # pdf: https://arxiv.org/abs/2505.10433 
