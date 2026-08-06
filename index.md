@@ -11,7 +11,11 @@ Before Penn State, I worked as a Software Developer (June 2022 to July 2023) wit
 On a personal note, I'm into reading, theater, and debating. I've also played a number of sports and I always enjoy playing anything new.
 
 ## News
-- **[Jan. 2025]** Presented my work at the AAAI Doctoral Consortium!
+- **[July. 2026]** Paper accepted at AIES 2026!
+- **[June. 2026]** Awarded the university-wide Fox Graduate Scholarship!
+- **[May. 2026]** Started my internship at Toyota Research Institute!
+- **[May. 2026]** Paper accepted at ACM EC 2026!
+- **[Jan. 2026]** Presented my work at the AAAI Doctoral Consortium!
 - **[Sep. 2025]** Passed my thesis proposal defense!
 - **[Sep. 2025]** Two papers accepted at NeurIPS 2025!
 - **[May. 2025]** Presented my work on "Distributive Fairness in Large Language Models" at the SC4AI workshop at AAMAS 2025.

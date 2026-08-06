@@ -1,8 +1,23 @@
 main:
 
+  title: "Preference Reasoning under Indeterminacy in Large Language Models"
+    authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Xiyuan Wang
+    conference_short: Under review
+    # pdf: https://arxiv.org/abs/2505.10433 
+    image: ./assets/img/preferences.png
+    # notes: (Alphabetical author ordering)
+
+  - title: "The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions"
+    authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
+    conference_short: AIES 2026
+    conference: Ninth AAAI/ACM Conference on AI, Ethics, and Society
+    image: ./assets/img/jc_gap.png
+    notes: (Alphabetical author ordering)
+
   - title: "Strategic Algorithmic Monoculture: Experimental Evidence from Coordination Games"
     authors: Gonzalo Ballestero, Hadi Hosseini, <strong>Samarth Khanna</strong>, Ran I. Shorrer
-    conference_short: Under review
+    conference_short: ACM EC 2026
+    conference: The Twenty-Seventh ACM Conference on Economics and Computation
     pdf: https://arxiv.org/abs/2604.09502 
     image: ./assets/img/monoculture.png
     notes: (Alphabetical author ordering)
