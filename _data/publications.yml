@@ -11,6 +11,7 @@ main:
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
     conference_short: AIES 2026
     conference: Ninth AAAI/ACM Conference on AI, Ethics, and Society
+    pdf: https://arxiv.org/abs/2608.05583
     image: ./assets/img/jc_gap.png
     notes: (Alphabetical author ordering)
 
