@@ -5,7 +5,7 @@ main:
     conference_short: Under review
     # pdf: https://arxiv.org/abs/2505.10433 
     image: ./assets/img/preferences.png
-    # notes: (Alphabetical author ordering)
+    notes: (Alphabetical author ordering)
 
   - title: "The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions"
     authors: Hadi Hosseini, <strong>Samarth Khanna</strong>, Leona Pierce
