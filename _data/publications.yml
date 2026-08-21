@@ -25,7 +25,8 @@ main:
 
   - title: "Fair Like Us? Auditing LLM Alignment in Resource Allocation"
     authors: <strong>Samarth Khanna</strong>, Sujoy Sikdar, Joshua Kavner, Hadi Hosseini, Qishen Han, Lirong Xia
-    conference_short: Under review
+    conference_short: EMNLP 2026 (Main)
+    conference: The 2026 Conference on Empirical Methods in Natural Language Processing
     # pdf: https://arxiv.org/abs/2505.10433 
     image: ./assets/img/thresholds.png
     # notes: (Alphabetical author ordering)
